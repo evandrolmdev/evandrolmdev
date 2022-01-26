@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Evandro, desenvolvedor front end! (@evandrolmdev é o meu apelido no GitHub)
+- 👋 Olá, meu nome é Evandro e me considero um desenvolvedor front end! (@evandrolmdev é o meu apelido no GitHub)
 - 👀 Meus interesses são:
   - HTML 5
   - CSS
