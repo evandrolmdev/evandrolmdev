@@ -3,8 +3,7 @@
   - HTML 5
   - CSS
   - JavaScript
-  - Projetos usando o CLP Siemens Simatic S7-1200 CPU 1215c DC/DC/DC
-  - Projetos usando Arduino UNO (original vindo da Itália)
+  - Projetos usando Arduino UNO (original, vindo da Itália)
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas - Formação de tecnólogo na Universidade Braz Cubas (Cruzeiro do Sul)
 - 💞️ Quero colaborar em projetos front end 
 - 📫 Se por acaso quiser entrar em contato comigo, você pode enviar um e-mail para evandrolm.live at hotmail.com
